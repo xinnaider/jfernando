@@ -1,7 +1,5 @@
 # JSON Resume in VS Code Style
 
-![Project Preview](https://your-image-link.com)
-
 ## 📌 Sobre o Projeto
 Este projeto é um experimento divertido: um currículo 100% em JSON, exibido como se estivesse aberto no VS Code! 💻
 
